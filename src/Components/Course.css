@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.card_fluid{
+    width: 20px;
+}
+
+.img-fluid{
+    width: 80%;
+    padding-top: 24px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.card-title{
+    font-size:1.5vw;
+    color: rgba(0, 0, 0, 0.87);
+    font-weight: 400;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    line-height: 1.35417em;
+}
