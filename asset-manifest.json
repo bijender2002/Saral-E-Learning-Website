@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Saral-E-Learning-Website/static/css/main.ec9abfe6.chunk.css",
+    "main.js": "/Saral-E-Learning-Website/static/js/main.49bc5d39.chunk.js",
+    "main.js.map": "/Saral-E-Learning-Website/static/js/main.49bc5d39.chunk.js.map",
+    "runtime-main.js": "/Saral-E-Learning-Website/static/js/runtime-main.25fdf369.js",
+    "runtime-main.js.map": "/Saral-E-Learning-Website/static/js/runtime-main.25fdf369.js.map",
+    "static/js/2.61fa1258.chunk.js": "/Saral-E-Learning-Website/static/js/2.61fa1258.chunk.js",
+    "static/js/2.61fa1258.chunk.js.map": "/Saral-E-Learning-Website/static/js/2.61fa1258.chunk.js.map",
+    "index.html": "/Saral-E-Learning-Website/index.html",
+    "static/css/main.ec9abfe6.chunk.css.map": "/Saral-E-Learning-Website/static/css/main.ec9abfe6.chunk.css.map",
+    "static/js/2.61fa1258.chunk.js.LICENSE.txt": "/Saral-E-Learning-Website/static/js/2.61fa1258.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25fdf369.js",
+    "static/js/2.61fa1258.chunk.js",
+    "static/css/main.ec9abfe6.chunk.css",
+    "static/js/main.49bc5d39.chunk.js"
+  ]
+}
